@@ -1,7 +1,7 @@
 # freebsd-after-install
 Script to install basic stuff to make more fast the config on FreeBSD after install.
 
-*** For some people thsis script can be a reference but it's not ready yet.
+*** For some people this script can be a reference but it's not ready yet.
 
 Use:
 
