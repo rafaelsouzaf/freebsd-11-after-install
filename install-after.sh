@@ -52,7 +52,7 @@ printf "\n\n\n\n"
 echo "########################################################"
 echo "################# INSTALLING BASIC STUFF"
 echo "########################################################"
-pkg install -y vim nano git wget curl openjdk unzip gcc compat9x-amd64 
+pkg install -y vim nano git wget curl openjdk unzip gcc compat9x-amd64 lynx
 
 
 
